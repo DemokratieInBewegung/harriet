@@ -1,10 +1,10 @@
-name: Iris — Diese Woche in DiB
-description: "Jeden Sonntag, das Wichtigste aus DEMOKRATIE IN BEWEGUNG in Deiner Inbox!"
-link: https://iris.bewegung.jetzt/
+name: Harriet — Fraue bei DiB
+description: "Frauen(themen) bei DEMOKRATIE IN BEWEGUNG in Deiner Inbox!"
+link: https://harriet.bewegung.jetzt/
 source: "."
 dest: "build"
 rss: "rss.xml"
-post_path: "ausgaben/:edition/"
+# post_path: ""
 
 ignore:
   - .git/*

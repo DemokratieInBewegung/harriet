@@ -1,10 +1,13 @@
 extends: default.liquid
+title: "Willkommen"
 ---
 
-{% assign post = posts|first%}
-<div class="edition"><a href="/{{post.path|replace:'index.html',''}}">Aktuelle Ausgabe {{post.edition}}</a> vom {{post.date | date:"%d.%m.%Y"}}:</div>
-<h1 class="edition-title">{{post.title}}</h1>
 
-<hr />
+<h2>Neuigkeiten</h2>
+
+<section>
+	<h3>Artikel überschrift</h3>
+	<p>Artikel Text <a href="/">mit link</a></p>
+</section>
 
 {{post.content}}
