@@ -129,34 +129,6 @@ footer a:hover svg {
   display: inline-block;
 }
 
-/* SIDEBAR FORM */
-
-form.mautic {
-  margin: 2em auto 0 auto;
-}
-
-.mautic input {
-  width: 75%;
-  width: calc(100% - 2em);
-  padding: 0 0.2rem;
-  line-height: 1.5rem;
-  font-size: 1.125rem;
-  border: 1px solid #999;
-  border-radius: 5px 0 0 5px;
-  border-right: 0; 
-  background-color: #f9f9f9;
-}
-
-.mautic button {
-  padding: 0 0.25rem;
-  line-height: 1.5rem;
-  border: 1px solid #999;
-  border-radius: 0 5px 5px 0;
-  font-size: 1.125rem;
-  background-color: #efefef;
-}
-
-
 /* CONTENT */
 
 .edition {
@@ -197,4 +169,27 @@ form.mautic {
 
 .heart {
   color: #de00ff;
+}
+
+
+.inner-subscribe-box {
+  width: 85%;
+  margin: 0 auto;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.inner-subscribe-box button,
+.inner-subscribe-box input {
+  font-size: 1.5em;
+  margin: 0;
+  border: 1px solid black;
+  color: white;
+  background: black;
+  padding: 0.0125em 0.25em;
+  border-left: 1px solid white;
+}
+
+.inner-subscribe-box form {
+  text-align: center;
 }
