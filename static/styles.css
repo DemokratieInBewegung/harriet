@@ -83,9 +83,12 @@ nav {
 }
 
 section {
+  padding: 0 2em;
+}
+
+section:first-child {
   /*flex: 1 1 auto;*/
-  padding: 20px 2em;
-  overflow: auto;
+  padding-top: 20px;
 }
 
 .brand, .brand:visited {
@@ -143,6 +146,39 @@ footer a:hover svg {
   text-align: center;
   padding-top: 1em;
   font-size: 0.85em;
+}
+
+.side-by-side {
+  display: flex;
+  margin-bottom: 3em;
+}
+
+.side-by-side > img {
+  width: 35%;
+}
+
+.side-by-side img:first-child {
+  margin-right: 1em;
+}
+
+.side-by-side img:last-child {
+  margin-left: 1em;
+}
+
+.side-by-side h3 {
+  /* top aligned */
+  padding-top: 0;
+  margin-top: -4px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  padding: 0 5px;
+}
+
+.column > img {
+  width: 100%;
 }
 
 /* Redaktion */
