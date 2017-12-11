@@ -4,7 +4,7 @@ link: https://harriet.bewegung.jetzt/
 source: "."
 dest: "build"
 rss: "rss.xml"
-# post_path: ""
+# post_path: "/artikel/:title_slug.html"
 
 ignore:
   - .git/*
