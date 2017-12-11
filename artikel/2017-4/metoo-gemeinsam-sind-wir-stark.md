@@ -1,4 +1,4 @@
-extends: default.liquid
+extends: article.liquid
 title: "#metoo: Gemeinsam sind wir stark!"
 edition: 2017/4
 path: /:edition/:slug/
