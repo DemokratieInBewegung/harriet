@@ -51,6 +51,8 @@ footer {
   padding-top: 1.5em;
   font-size: 0.8em;
   line-height: 0.9em;
+  display: flex;
+  flex-direction: column;
   text-align: center;
   align-items: center;
   justify-content: center;
@@ -154,15 +156,20 @@ footer a:hover svg {
   align-items: flex-start;
 }
 
+.side-by-side.righty {
+  flex-direction: row-reverse;
+}
+
 .side-by-side > img {
   width: 35%;
 }
 
-.side-by-side img:first-child {
+.side-by-side img {
   margin-right: 1em;
 }
 
-.side-by-side img:last-child {
+.side-by-side.righty img {
+  margin-right: 0;
   margin-left: 1em;
 }
 
@@ -245,4 +252,23 @@ footer a:hover svg {
 
 .inner-subscribe-box form {
   text-align: center;
+}
+
+
+
+@media only screen and (max-width: 980px) {
+  .side-by-side > img {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .side-by-side,
+  .side-by-side.righty {
+    flex-direction: column;
+  }
+  .side-by-side > img {
+    margin: 0 0 1em 0;
+    width: 100%;
+  }
 }
