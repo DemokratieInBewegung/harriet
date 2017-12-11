@@ -4,22 +4,5 @@
 		<p>Harriet, der Newsletter zur Geschlechterpolitik von DEMOKRATIE IN BEWEGUNG startet bald. Denn Politik ist nicht nur Männersache!</p>
 		<p>Der Newsletter informiert Dich alle drei Monate über das Thema Geschlechterpolitik.</p>
 
-        <div id="mauticform_wrapper_harrietsubscribe" class="mauticform_wrapper">
-            <form autocomplete="false" role="form" method="post" action="https://mautic.bewegung.jetzt/form/submit?formId=4" id="mauticform_harrietsubscribe"  data-mautic-form="harrietsubscribe" enctype="multipart/form-data">
-            	<p>Jetzt anmelden</p>
-                <div class="mauticform-error" id="mauticform_harrietsubscribe_error"></div>
-                <div class="mauticform-message" id="mauticform_harrietsubscribe_message"></div>
-                <div class="mauticform-innerform">
-                    <div class="mauticform-errormsg" style="display: none;">Erforderlich</div>
-                    <div class="subscribe-fields">
-    	                <input id="mauticform_input_harrietsubscribe_email" name="mauticform[email]" required value="" placeholder="Deine E-Mail Adresse" class="mauticform-input" type="email" /><button type="submit" name="mauticform[submit]" id="mauticform_input_harrietsubscribe_submit" name="mauticform[submit]" value="" class="mauticform-button btn btn-default" value="1">Eintragen</button>
-                    </div>
-
-                    <input type="hidden" name="mauticform[formId]" id="mauticform_harrietsubscribe_id" value="4"/>
-                    <input type="hidden" name="mauticform[return]" id="mauticform_harrietsubscribe_return" value=""/>
-                    <input type="hidden" name="mauticform[formName]" id="mauticform_harrietsubscribe_name" value="harrietsubscribe"/>
-                </div>
-
-            </form>
-        </div>
+        {% include _includes/subscribe-form.liquid %}
     </div>
