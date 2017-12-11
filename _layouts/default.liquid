@@ -11,12 +11,21 @@
         {% endif %}
 
         {% comment %}<meta property="og:description" content="Der Wochenrück und Ausblick von DEMORAKTIE IN BEWEGUNG{% if edition %} — Ausgabe {{edition}}{% endif %}.">{% endcomment %}
-        <meta property="og:image" content="https://harriet.bewegung.jetzt/static/logo.png">
+        {% if image_path %}
+          <meta property="og:image" content="https://harriet.bewegung.jetzt/{{image_path}}">
+          <meta name="twitter:image" content="https://harriet.bewegung.jetzt/{{image_path}}">
+          <meta name="twitter:image:alt" content="{{image_alt}}">
+        {% else %}
+          <meta property="og:image" content="https://harriet.bewegung.jetzt/static/logo.png">
+          <meta name="twitter:image" content="https://harriet.bewegung.jetzt/static/logo.png">
+          <meta name="twitter:image:alt" content="Harriet Logo: der Umriss eines Megaphone.">
+        {% endif %}
+
+
         <meta property="og:url" content="https://harriet.bewegung.jetzt/{{path|replace:'index.html',''}}">
         <meta name="twitter:card" content="summary">
 
         <meta property="og:site_name" content="Harriet, Frauen bei DiB">
-        <meta name="twitter:image:alt" content="Harriet Logo: der Umriss eines Megaphone.">
 
         <meta name="twitter:site" content="@bauchtbewegung">
 
@@ -33,16 +42,15 @@
               class="logo"
               alt="Harriet Logo: der Umriss eines Megaphone."
               src="/static/logo.png" />
-            <h1>Harriet</h1>
+            {% if is_post %}
+              <h1><a href="/{{path|replace:'index.html',''}}">Harriet {{edition}}</a></h1>
+            {% else %}
+              <h1>Harriet</h1>
+            {% endif %}
           </a>
 
         </nav>
         <section role="content" id="main">
-          {% if is_post %}
-            <div class="edition">Iris {{edition}} vom {{date | date:"%d.%m.%Y"}}:</div>
-            <h1  class="edition-title">{{title}}</h1>
-            <hr />
-          {% endif %}
           {{ content }}
 
           <p class="page-controls">

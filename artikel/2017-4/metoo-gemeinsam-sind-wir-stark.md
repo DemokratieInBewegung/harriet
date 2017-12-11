@@ -3,10 +3,10 @@ title: "#metoo: Gemeinsam sind wir stark!"
 edition: 2017/4
 path: /:edition/:slug/
 
+image_path: /static/2017-4/metoo-2859980_1280.jpg
+image_alt: "Ein Foto einer Frau, die sich ein Schild mit der Aufschrift #METOO vor das Gesicht hält."
+
 ---
-
-
-<h2>{{title}}</h2>
 
 Im Oktober begannen Frauen auf der ganzen Welt, offen zu bekunden, dass sie Opfer sexueller Übergriffe waren oder sind. Seitdem wurde viel diskutiert, viele Menschen haben in der Öffentlichkeit Folgen daraus gezogen, Theorien aufgestellt. Männer wurden geächtet, andere haben sich aufgeregt. Es wurde viel geredet. 
 
