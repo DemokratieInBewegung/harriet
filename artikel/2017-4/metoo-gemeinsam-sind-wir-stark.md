@@ -16,7 +16,7 @@ Und wir sind davon überzeugt, dass jeder Aufschrei wertvoll ist. Wir sind davon
 
 Wir können natürlich darüber streiten, dass nun alle sexuellen Übergriffe verallgemeinert werden und Männer pauschal verurteilt werden. Wir können über Konsequenzen diskutieren. Teilweise müssen wir das auch.
 
-Aber in erster Linie müssen wir an die Frauen denken und sagen: Wir sind da. Wir hören Dich, und geben dir eine [Stimme](Link Plenum). Wir sind füreinander da, stehen zusammen und kämpfen u.a. gemeinsam für eine Welt frei von sexueller Gewalt! Wir entwickeln Initiativen und Aktionen, wir bieten Raum und Mut für gemeinsame Kraft.
+Aber in erster Linie müssen wir an die Frauen denken und sagen: Wir sind da. Wir hören Dich, und geben dir eine [Stimme](https://abstimmen.bewegung.jetzt). Wir sind füreinander da, stehen zusammen und kämpfen u.a. gemeinsam für eine Welt frei von sexueller Gewalt! Wir entwickeln Initiativen und Aktionen, wir bieten Raum und Mut für gemeinsame Kraft.
 
 Dabei geht es nicht um Stärke, die durch Anklagen entsteht. Es geht um Stärke, weil wir uns zusammentun und darauf aufmerksam machen, dass es viel mehr sexuelle Gewalt gibt, als viele Menschen denken. Weil wir uns zusammentun und sagen: NEIN, das müssen wir nicht ertragen. Niemand, keine Frau auf dieser Welt!   
 
@@ -25,7 +25,7 @@ Und das geht, indem wir viele sind, uns nicht einschüchtern lassen, die Debatte
 
 Wir sind Da. Und wir sind laut. Mit Euch, für Euch, für alle Frauen* dieser Welt. Sei dabei, nutze das Initiativprinzip, nutze DiB, um mit uns laut zu werden! Gemeinsam finden wir Wege, für uns und für die Frauen* der Zukunft stark zu sein!
 
-Lea
+Lea<br>
 für Demokratie in Bewegung
 
 
