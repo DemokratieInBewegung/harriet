@@ -3,8 +3,8 @@ title: "Franka Kretschmer"
 edition: 2017/4
 path: /:edition/:slug/
 
-# image_path: /static/2017-4/Untitled-1520x853.jpg
-# image_alt: "Ein Gruppenfoto der Frauen, die in NRW auf der Landesliste für DEMOKRATIE IN BEWEGUNG zur Bundestagswahl 2017 standen."
+image_path: /static/2017-4/franka-quer.jpg
+image_alt: "Ein Portrait-Foto von Franka Kretschmer."
 
 ---
 
