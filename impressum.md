@@ -42,4 +42,4 @@ Brunnenstr. 64/65<br/>
 13355 Berlin, Deutschland
 </address>
 
-Kontakt über <hallo@bewegung.jetzt>
+Kontakt über <harriet@bewegung.jetzt>
