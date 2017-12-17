@@ -4,6 +4,31 @@ path: /impressum/
 
 # Redaktion
 
+## Redaktionsleitung
+
+{% assign autorin=site.data.autorinnen.lea%}
+{% include autorin.liquid %}
+
+## Autorinnen
+
+<div class="autorinnen">
+
+{% assign autorin=site.data.autorinnen.anett%}
+{% include autorin.liquid %}
+
+{% assign autorin=site.data.autorinnen.dorothee%}
+{% include autorin.liquid %}
+
+{% assign autorin=site.data.autorinnen.franka%}
+{% include autorin.liquid %}
+
+{% assign autorin=site.data.autorinnen.sabine%}
+{% include autorin.liquid %}
+
+{% assign autorin=site.data.autorinnen.sara%}
+{% include autorin.liquid %}
+</div>
+
 
 
 ## Impressum

@@ -227,6 +227,44 @@ footer a:hover svg {
     color: black;
 }
 
+.autorinnen {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.autorin h3 {
+  margin-top: 0;
+  margin-left: 1em;
+}
+
+.autorinnen .autorin {
+  flex-direction: column;
+  margin: 1em;
+}
+
+.autorinnen .for-dib {
+  display: none;
+}
+
+.autorin {
+  display: flex;
+}
+
+
+.article .autorin {
+  margin: 2em auto;
+  width: 80%;
+  align-items: center;
+}
+
+.article .autorin img {
+  border-radius: 50%;
+  border: 1px solid black;
+  max-height: 120px;
+}
+
 
 
 /* SPECIALS */

@@ -25,8 +25,9 @@ Es ist unfassbar, wie viel Stärke und Energie Harriet Tubman bewies. Und das, w
 
 Wir haben Harriet so viel zu verdanken, wir sind dankbar, dass sie so furchtlos und stark war. Harriet hat diese Welt zu einem besseren Ort gemacht. Deswegen möchten wir sie würdigen. 
 
-Lea
-für Demokratie in Bewegung
+
+{% assign autorin=site.data.autorinnen.lea%}
+{% include autorin.liquid %}
 
 
 <small>Das Foto wurde von <a href="https://www.flickr.com/photos/thomashawk/7640248056" target="_blank">Thomas Hawk auf Flickr</a> unter <a href="https://creativecommons.org/licenses/by-nc/2.0/" target="_blank">Creative Commons BY-NC 2.0</a> veröfentlicht.</small>

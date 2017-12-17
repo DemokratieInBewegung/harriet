@@ -25,7 +25,6 @@ Und das geht, indem wir viele sind, uns nicht einschüchtern lassen, die Debatte
 
 Wir sind Da. Und wir sind laut. Mit Euch, für Euch, für alle Frauen* dieser Welt. Sei dabei, nutze das Initiativprinzip, nutze DiB, um mit uns laut zu werden! Gemeinsam finden wir Wege, für uns und für die Frauen* der Zukunft stark zu sein!
 
-Lea<br>
-für Demokratie in Bewegung
 
-
+{% assign autorin=site.data.autorinnen.lea%}
+{% include autorin.liquid %}

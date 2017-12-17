@@ -19,5 +19,5 @@ Ein häufiger Kritikpunkt an Quoten ist, dass die Qualifikation im Vordergrund s
 
 Natürlich müssen wir uns auch auf anderen Wegen gegen die Benachteiligung von Frauen einsetzen, auf anderen Wegen dafür sorgen, dass Strukturen nicht männlich bleiben. Aber eine Quote ist das einzige Mittel, was Frauen unmittelbar und sofort in die Lage versetzt selbst aktiv Strukturen zu schaffen. 
 
-Sabine<br />
-für Demokratie in Bewegung
+{% assign autorin=site.data.autorinnen.sabine%}
+{% include autorin.liquid %}

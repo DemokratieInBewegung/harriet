@@ -38,3 +38,7 @@ Mitgründerin von DEMOKRATIE IN BEWEGUNG<br>
 Schatzmeisterin im Bundesvorstand <br>
 <br>
 PS: Und jetzt wohin? Hier: [bewegung.jetzt/mitmachen](https://bewegung.jetzt/mitmachen/) (-:
+
+
+{% assign autorin=site.data.autorinnen.dorothee%}
+{% include autorin.liquid %}

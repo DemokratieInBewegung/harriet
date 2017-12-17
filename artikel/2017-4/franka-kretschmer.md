@@ -26,3 +26,6 @@ Außerdem macht es einfach viel Spaß, weil sich bei DiB viele, viele angenehme,
 
 neben einer Handvoll anderer sehr bemerkenswerter Frauen (Frieda Kahlo, Marie Curie, Sophie Scholl, Hildegard von Bingen oder auch Regine Hildebrand) hat mich vor allem Hannah Arend mit ihrer Überzeugung, ihrer Stärke gegenüber Angriffen, ihrer ständigen Suche nach Erklärung statt reiner Verurteilung und ihrer unideologischen Differenziertheit beeindruckt.
 
+
+{% assign autorin=site.data.autorinnen.franka%}
+{% include autorin.liquid %}

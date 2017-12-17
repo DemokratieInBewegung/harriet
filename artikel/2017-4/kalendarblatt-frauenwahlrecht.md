@@ -6,6 +6,8 @@ path: /:edition/:slug/
 image_path: /static/2017-4/womens-march-2001566_1280.jpg
 image_alt: "Das Foto zeigt ein Plakat, welches bei einer Demontration hochgehalten wird. Darauf zu sehen ist Prinzessin Lea aus Star Wars mit der Aufschrift \"Woman's Place is in the resistance\""
 
+autorin: anett
+
 ---
 
 Es war der **30.11.1918**, an dem Frauen in Deutschland endlich gesetzlich zugestanden wurde, passiv und aktiv die politischen Wahlen mitzubestimmen. Für mich selbstverständlich und 2018 dann auch schon seit 100 Jahren gelebte Praxis.
@@ -47,12 +49,12 @@ Darum ist es hier und heute unsere Aufgabe, auf Strukturen und Mechanismen aufme
 
 Diesen Tag wollen wir bei DiB besonders feiern und schon jetzt laufen die ersten Vorbereitungen dazu an. 
 Wenn Du gern Deine Ideen mit einbringen möchtest oder an den Vorbereitungen und der Planung dieses Events interessiert bist, melde Dich bei uns!
-Es soll ein Fest werden, das Brücken schlägt, Gleichbehandlung neu denkt und damit Richtungsweisend für die Zukunft wird. 
- 
-Anett<br>
-für Demokratie in Bewegung
- 
- 
+Es soll ein Fest werden, das Brücken schlägt, Gleichbehandlung neu denkt und damit Richtungsweisend für die Zukunft wird.
+
+
+{% assign autorin=site.data.autorinnen.anett%}
+{% include autorin.liquid %}
+
  
  
  

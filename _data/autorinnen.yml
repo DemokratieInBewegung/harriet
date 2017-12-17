@@ -1,0 +1,37 @@
+lea:
+  name: Lea
+  vollername: Lea Brunn
+  mp_user: leia
+  photo_url: "https://marktplatz.bewegung.jetzt/user_avatar/marktplatz.bewegung.jetzt/leia/240/4992_1.png"
+  fuer_dib: 1
+  title: "Readaktionsleitung"
+anett:
+  name: Anett
+  vollername: Anett Polzin
+  mp_user: anett
+  photo_url: "https://marktplatz.bewegung.jetzt/user_avatar/marktplatz.bewegung.jetzt/anett/240/402_1.png"
+  fuer_dib: 1
+dorothee:
+  name: Dorothee
+  vollername: Dorothee Vogt
+  mp_user: dorothee
+  photo_url: "https://marktplatz.bewegung.jetzt/user_avatar/marktplatz.bewegung.jetzt/dorothee/240/156_1.png"
+  fuer_dib: 1
+franka:
+  name: Franka
+  vollername: Franka Kretschmer
+  mp_user: franka.kretschmer
+  photo_url: "https://marktplatz.bewegung.jetzt/user_avatar/marktplatz.bewegung.jetzt/franka.kretschmer/240/319_1.png"
+  fuer_dib: 1
+sabine:
+  name: Sabine
+  vollername: Sabine Sedlaczek
+  mp_user: sabine
+  photo_url: "https://marktplatz.bewegung.jetzt/user_avatar/marktplatz.bewegung.jetzt/sabine/240/5360_1.png"
+  fuer_dib: 1
+sara:
+  name: Sara
+  vollername: Sara Gomes
+  mp_user: spgomes
+  photo_url: "https://marktplatz.bewegung.jetzt/user_avatar/marktplatz.bewegung.jetzt/spgomes/240/1435_1.png"
+  fuer_dib: 1
