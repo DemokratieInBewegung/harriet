@@ -164,6 +164,10 @@ footer a:hover svg {
   width: 35%;
 }
 
+.side-by-side > img.thin {
+  width: 17.5%;
+}
+
 .side-by-side img {
   margin-right: 1em;
 }
@@ -267,7 +271,8 @@ footer a:hover svg {
   .side-by-side.righty {
     flex-direction: column;
   }
-  .side-by-side > img {
+  .side-by-side > img,
+  .side-by-side > img.thin {
     margin: 0 0 1em 0;
     width: 100%;
   }
