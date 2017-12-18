@@ -9,7 +9,7 @@ image_alt: "Ein Foto eines Protest, zu sehe eine Frau, die die linke Hand zur Fa
 ---
 Im aktuellen Bundestag sitzen gerade mal 30% Frauen. Es gibt wohl kein besseres Beispiel für die strukturelle Benachteiligung von Frauen, die immer noch herrscht. Das führt dazu, dass der Bundestag in keinster Weise die Gesellschaft repräsentiert, dass er uns Frauen nicht repräsentiert. In allen Parteien sind Frauen bisher unterrepräsentiert.
 
-Wir bei DEMOKRATIE IN BEWEGUNG wollen das besser machen. Es ist unser erklärtes Ziel die politische Willensbildung von Frauen zu fördern. Es ist uns ein Anliegen, mehr Frauen in die Politik zu bringen. Mit dem Bewusstsein, dass die Strukturen in der Politik immer noch vom Patriarchat geprägt sind, und auch niemand von uns (also Männer und Frauen) frei von sexistischen Vorurteilen ist, haben wir uns für eine Frauenquote entschieden.
+Wir bei DEMOKRATIE IN BEWEGUNG wollen das besser machen. Es ist unser erklärtes Ziel, die politische Willensbildung von Frauen zu fördern. Es ist uns ein Anliegen, mehr Frauen in die Politik zu bringen. Mit dem Bewusstsein, dass die Strukturen in der Politik immer noch vom Patriarchat geprägt sind, und auch niemand von uns (also Männer und Frauen) frei von sexistischen Vorurteilen ist, haben wir uns für eine Frauenquote entschieden.
 
 Unsere Frauenquote beträgt mindestens 50% und gilt für alle Ämter, Positionen und Listen innerhalb von DEMOKRATIE IN BEWEGUNG. Wir wollen damit Strukturen durchbrechen, uns selbst sensibilisieren und strukturelle Benachteiligung bekämpfen. Dafür brauchen wir Dich!
 
@@ -17,7 +17,7 @@ Neben der Frauenquote haben wir auch eine Quote für Menschen mit Diskriminierun
 
 Ein häufiger Kritikpunkt an Quoten ist, dass die Qualifikation im Vordergrund stehen sollte und nicht das Geschlecht. Fakt ist aber, dass aktuell das Geschlecht sehr wohl eine Rolle spielt. Wenn es zum Beispiel bei der Besetzung von Aufsichtsratsposten nur um die Qualifikation gehen würde, säßen dort viel mehr Frauen. Wir sind nämlich im Schnitt sogar besser qualifiziert als Männer. Die Quote ist ein Mittel zum Zweck und sorgt auf lange Sicht dafür, dass es wirklich nur um die Qualifikation geht.
 
-Natürlich müssen wir uns auch auf anderen Wegen gegen die Benachteiligung von Frauen einsetzen, auf anderen Wegen dafür sorgen, dass Strukturen nicht männlich bleiben. Aber eine Quote ist das einzige Mittel, was Frauen unmittelbar und sofort in die Lage versetzt selbst aktiv Strukturen zu schaffen. 
+Natürlich müssen wir uns auch auf anderen Wegen gegen die Benachteiligung von Frauen einsetzen, auf anderen Wegen dafür sorgen, dass Strukturen nicht männlich bleiben. Aber eine Quote ist das einzige Mittel, was Frauen unmittelbar und sofort in die Lage versetzt, selbst aktiv Strukturen zu schaffen. 
 
 {% assign autorin=site.data.autorinnen.sabine%}
 {% include autorin.liquid %}
