@@ -244,6 +244,10 @@ footer a:hover svg {
   margin: 1em;
 }
 
+.autorinnen .autorin img {
+  max-width: 180px;
+}
+
 .autorinnen .for-dib {
   display: none;
 }
