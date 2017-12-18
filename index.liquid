@@ -1,11 +1,13 @@
 extends: default.liquid
-title: "Willkommen"
+title: "Aktuelle Ausgabe von Harriet"
 ---
 
-<section>
 
-	<h2>Bald kommt Harriet</h2>
-	{% include _includes/subscribe-box.liquid %}
-</section>
+{% assign post = posts|first%}
+<div class="edition"><a href="/{{post.edition}}">Aktuelle Ausgabe {{post.edition}}</a> vom {{post.date | date:"%d.%m.%Y"}}:</div>
 
 {{post.content}}
+
+<section>
+	{% include _includes/subscribe-box.liquid %}
+</section>
