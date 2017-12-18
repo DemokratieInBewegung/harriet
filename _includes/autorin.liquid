@@ -1,7 +1,7 @@
 <div class="autorin">
 	<img src="{{autorin.photo_url}}" alt="{{autorin.vollername}}" />
 	<div>
-		<h3 title="{{autorin.vollername}}">{{autorin.name}}
+		<h3 title="{{autorin.vollername}}">{% if autorin.mp_name %}<a href="https://marktplatz.bewegung.jetzt/u/{{autorin.mp_name}}/" target="_blank">{% endif %}{{autorin.name}} {% if autorin.mp_name %}</a>{% endif %}
 			{% if autorin.fuer_dib %}<span class="for-dib"><br /> für DEMOKRATIE IN BEWEGUNG</span>{% endif %}</h3>
 	</div>
 </div>
