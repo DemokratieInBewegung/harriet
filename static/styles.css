@@ -128,10 +128,13 @@ footer a:hover svg {
   fill: #333;
 }
 
-.subtitle {
-  margin: 0 2em;
-  text-align: center;
-  display: inline-block;
+.project-ref {
+  flex-grow: 1;
+  text-align: right;
+  align-self: flex-end;
+  font-size: 0.75em;
+  line-height: 1;
+  margin: 0;
 }
 
 /* CONTENT */
